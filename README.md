@@ -21,3 +21,12 @@ To view this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/akhilgeek/Netflix-clone.git
+2. Navigate to the project directory:
+    cd amazon-clone
+3. Open index.html in your preferred web browser.
+
+## Contributing
+Feel free to fork the repository and submit pull requests with improvements or fixes.
+
+## Contact
+For any questions or feedback, please reach out to me at akhilkumar6313@gmail.com or akhilkr631@gmail.com.
